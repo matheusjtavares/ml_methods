@@ -67,7 +67,7 @@ source .venv/bin/activate  # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
-Explore the code or run the jupyter files in `ml_methods/*`.
+Explore the code or run the jupyter files in `ml_metrhods/*`.
 
 ---
 
@@ -85,4 +85,4 @@ This project is licensed under the MIT License.
 
 ## 🔗 Connect
 
-Feel free to check out my other projects or connect on [LinkedIn](www.linkedin.com/in/matheus-jonathan-dos-santos-tavares-49a383171).
+Feel free to check out my other projects or connect on [LinkedIn](https://www.linkedin.com/in/matheus-jonathan-dos-santos-tavares-49a383171).
